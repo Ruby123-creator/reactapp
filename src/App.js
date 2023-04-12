@@ -38,7 +38,7 @@ function App() {
 
   return (
     
-    <div classNameName="App">
+    <div className="App">
       <Navbar title = "TextUtilis" mode ={mode} toggleMode ={toggleMode} />
       <Alert alert = {alert} />
 
